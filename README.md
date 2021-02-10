@@ -1,3 +1,3 @@
 # Web-Design-Challenge
 
-https://loictiems.github.io/Web-Design-Challenge/Visualizations
+https://loictiems.github.io/Web-Design-Challenge/visualizations
